@@ -3,7 +3,7 @@
 
 
 
-As a student, I am focused on expanding my knowledge and skills in my field of study. My academic journey involves learning various languages, participating in research, and preparing for my future career. I aim to become a well-rounded, skilled and proficient professional who can contribute meaningfully by developing innovative solutions to complex problems my chosen field.
+As a dedicated student, I'm passionate about expanding my knowledge in software engineering. My journey involves mastering various programming languages, engaging in research, and preparing for a dynamic career in tech. I aim to become a versatile and skilled professional, capable of developing innovative solutions to complex problems in the ever-evolving field of software development.
 
 <!--
 **Wendy-Lagho/Wendy-Lagho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
