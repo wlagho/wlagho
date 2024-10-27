@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 * 🔭  I’m currently working on Springboot, Java.
 * 📫  You can contact me at [wlagho@gmail.com](mailto:wlagho@gmail.com)
 * 🚀  I'm working towards being a full-stack engineer.
+ <!-- 
 * 🌱  I'm currently learning as many things as I can about software engineering.
+  -->
 * 👯  I'm open to collaborating on interesting projects
 * ⚡  Fun fact: I can solve a Rubik's cube in under two minutes.
 
