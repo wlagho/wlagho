@@ -6,7 +6,7 @@
 As a dedicated student, I'm passionate about expanding my knowledge in software engineering. My journey involves mastering various programming languages, engaging in research, and preparing for a dynamic career in tech. I aim to become a versatile and skilled professional, capable of developing innovative solutions to complex problems in the ever-evolving field of software development.
 -->
 <!--
-**Wendy-Lagho/Wendy-Lagho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wlagho/wlagho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ### Socials
 
 <p align="left"> 
-<a href="https://www.github.com/Wendy-Lagho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" /></a> 
+<a href="https://www.github.com/wlagho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" /></a> 
 <a href="https://www.linkedin.com/in/wendy-lagho-2b3126236" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" /></a> 
 
 
@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 <b>My GitHub Stats</b>
 <!--
-<a href="http://www.github.com/Wendy-Lagho"><img src="https://github-readme-stats.vercel.app/api?username=Wendy-Lagho&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Wendy-Lagho's GitHub stats" /></a>
+<a href="http://www.github.com/wlagho"><img src="https://github-readme-stats.vercel.app/api?username=wlagho&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Wendy-Lagho's GitHub stats" /></a>
 -->
-<a href="http://www.github.com/Wendy-Lagho"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Wendy-Lagho&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/wlagho"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wlagho&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Wendy-Lagho" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendy-Lagho&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/wlagho" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlagho&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
